@@ -1,4 +1,14 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
 package com.mycompany.removeduplicates;
+
+/**
+ *
+ * @author Admin
+ */
+import java.util.*;
 public class RemoveDuplicates {
 
     public static void main(String[] args) {
@@ -9,4 +19,4 @@ public class RemoveDuplicates {
        }
        System.out.println("After removing Duplicates:"+ set);
     }
-} 
+}

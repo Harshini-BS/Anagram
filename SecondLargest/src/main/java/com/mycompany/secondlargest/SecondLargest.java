@@ -1,5 +1,13 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
 package com.mycompany.secondlargest;
 
+/**
+ *
+ * @author Admin
+ */
 public class SecondLargest {
 
     public static void main(String[] args) {
